@@ -1,0 +1,101 @@
+{
+  "patterns": [
+    "a playlist for those born in the wrong century • {composer} {piece}",
+    "old money vibes | {composer} for {activity} {duration}h",
+    "royal is falling in love with you • {composer} {piece} • {duration} hours",
+    "slow living in a {location} | {composer} {piece}",
+    "you come from old money, but it's {year} | {composer} {activity}",
+    "dark academia {activity} playlist | {composer} {duration}h",
+    "{mood} {composer} for {activity} • {piece} • {duration} hours",
+    "{location} at {time} | {composer} {piece} {duration}h",
+    "a love letter to {composer} | {piece} {duration} hours",
+    "{mood} classical piano for {activity} | {duration}h • no ads"
+  ],
+  "variables": {
+    "composer": [
+      "chopin",
+      "debussy",
+      "bach",
+      "mozart",
+      "liszt",
+      "ravel",
+      "satie",
+      "tchaikovsky",
+      "beethoven",
+      "schubert"
+    ],
+    "piece": [
+      "nocturnes",
+      "preludes",
+      "clair de lune",
+      "gymnopédies",
+      "goldberg variations",
+      "piano sonatas",
+      "études",
+      "waltzes",
+      "arabesques",
+      "reverie",
+      "gymnopedie"
+    ],
+    "activity": [
+      "studying",
+      "reading",
+      "writing",
+      "sleeping",
+      "meditation",
+      "focus",
+      "contemplation",
+      "rainy days",
+      "sunday morning"
+    ],
+    "mood": [
+      "melancholic",
+      "ethereal",
+      "nostalgic",
+      "dreamy",
+      "serene",
+      "haunting",
+      "intimate",
+      "romantic",
+      "somber",
+      "peaceful"
+    ],
+    "location": [
+      "parisian apartment",
+      "oxford library",
+      "vienna cafe",
+      "english manor",
+      "tokyo jazz bar",
+      "florence villa",
+      "cambridge study",
+      "prague attic"
+    ],
+    "time": [
+      "midnight",
+      "3am",
+      "dawn",
+      "golden hour",
+      "dusk",
+      "a rainy afternoon",
+      "sunday morning",
+      "twilight"
+    ],
+    "year": [
+      "1924",
+      "1889",
+      "1948",
+      "1903",
+      "1897",
+      "1912",
+      "1876"
+    ],
+    "duration": [
+      "1.5",
+      "2",
+      "3",
+      "5",
+      "8",
+      "10"
+    ]
+  }
+}

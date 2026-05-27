@@ -1,0 +1,71 @@
+{
+  "templates": [
+    "this is my personal love letter to {composer}.\\n\\n{piece} for {activity} — {duration} hours of uninterrupted beauty.\\n\\ntracklist:\\n{tracklist}\\n\\n#classicalmusic #darkacademia #oldmoney #{composer} #piano #studymusic",
+    "{mood} {composer} {piece} for {activity}.\\n\\na playlist for those who find comfort in the past.\\n\\n{duration} hours. no ads. no interruptions. just music.\\n\\n#classicalpiano #darkacademia #{composer} #studymusic #oldmoney",
+    "imagine: {location}, {time}, and {composer} playing in the background.\\n\\nthis is {piece} — {duration} hours for {activity}.\\n\\n#classicalmusic #{composer} #aesthetic #darkacademia #oldmoneyvibes",
+    "{composer} wrote this in {year}, and somehow it still understands exactly how you feel.\\n\\n{piece} — {duration} hours.\\n\\n#classicalpiano #{composer} #nostalgia #darkacademia #studymusic"
+  ],
+  "variables": {
+    "composer": [
+      "chopin",
+      "debussy",
+      "bach",
+      "mozart",
+      "liszt",
+      "ravel",
+      "satie",
+      "tchaikovsky"
+    ],
+    "piece": [
+      "nocturnes",
+      "preludes",
+      "clair de lune",
+      "gymnopédies",
+      "goldberg variations",
+      "piano sonatas"
+    ],
+    "activity": [
+      "studying",
+      "reading",
+      "sleeping",
+      "focus",
+      "contemplation"
+    ],
+    "mood": [
+      "melancholic",
+      "ethereal",
+      "nostalgic",
+      "dreamy",
+      "serene"
+    ],
+    "location": [
+      "a parisian apartment",
+      "an oxford library",
+      "a vienna cafe",
+      "an english manor"
+    ],
+    "time": [
+      "midnight",
+      "3am",
+      "dawn",
+      "a rainy afternoon",
+      "sunday morning"
+    ],
+    "year": [
+      "1924",
+      "1889",
+      "1847",
+      "1903",
+      "1897",
+      "1912"
+    ],
+    "duration": [
+      "1.5",
+      "2",
+      "3",
+      "5",
+      "8",
+      "10"
+    ]
+  }
+}

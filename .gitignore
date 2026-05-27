@@ -1,0 +1,23 @@
+# Секреты
+.env
+*.env
+config/*.json
+config/*.yaml
+!config/settings.yaml.example
+
+# Большие файлы
+*.wav
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Выходные данные
+output/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
