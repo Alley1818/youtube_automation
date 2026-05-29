@@ -1,5 +1,4 @@
 # Classical Piano Automation Agent
-## Стиль Dear Victor and Victoria (Old Money / Dark Academia)
 
 Полностью автоматизированный агент для создания и заливки classical piano видео на YouTube.
 
@@ -23,7 +22,7 @@
 classical_piano_automation/
 ├── config/
 │   ├── settings.yaml              # Настройки канала
-│   └── youtube_credentials.json   # Google API credentials (ты создаёшь)
+│   └── youtube_credentials.json   # Google API credentials
 ├── scripts/
 │   ├── create_video.py            # Главный оркестратор
 │   ├── audio_processor.py         # Обработка аудио (loop, fade, normalize)
@@ -31,7 +30,7 @@ classical_piano_automation/
 │   ├── thumbnail_generator.py     # Генерация превью (PIL)
 │   └── youtube_uploader.py        # Заливка через API
 ├── templates/
-│   ├── titles.json                # Шаблоны названий (old money стиль)
+│   ├── titles.json                # Шаблоны названий
 │   ├── descriptions.json          # Шаблоны описаний
 │   └── tags.json                  # Теги по нишам
 ├── libraries/
@@ -92,20 +91,12 @@ python create_video.py --niche classical --duration 2 --mood melancholic --activ
 
 ---
 
-## 🎨 Стиль Dear Victor and Victoria
-
 ### Названия (examples)
 - "a playlist for those born in the wrong century • chopin nocturnes"
 - "old money vibes | debussy for dark academia studying"
 - "royal is falling in love with you • classical piano 2 hours"
 - "slow living in a parisian apartment | rain + chopin"
 - "you come from old money, but it's 1948 | classical study"
-
-### Визуал
-- Sepia / warm tones
-- Свечи, старые книги, окна с дождём
-- Винтажные интерьеры, пианино
-- Медленный zoom/pan (Ken Burns effect)
 
 ### Thumbnail
 - Тёмный фон, золотистый текст
